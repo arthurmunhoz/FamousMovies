@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Top Movies</string>
+    <string name="wait_for_movies_message">Aguarde, carregando filmes…</string>
+    <string name="wait_for_details_message">Carregando detalhes…</string>
+    <string name="error_message">Problema de conexão!\nHabilite acesso à internet e tente novamente.</string>
+    <string name="error_message2">Falha ao carregar os filmes!\nTente novamente.</string>
+    <string name="click_to_enlarge">Clique para aumentar</string>
+    <string name="swipe_to_reload">Arraste para carregar novamente</string>
+    <string name="slide_to_zoom">ZOOM</string>
+    <string name="preview">Sinopse</string>
+    <string name="title">Título</string>
+    <string name="votes">Votos</string>
+    <string name="popularity">Média em 10 estrelas</string>
+    <string name="release">Lançamento</string>
+    <string name="duration">Duração</string>
+    <string name="genre">Gêneros</string>
+
+    <!-- MENU -->
+    <string name="top_rated">Mais votados</string>
+    <string name="popular">Populares</string>
+    <string name="favorites">Meus filmes favoritos</string>
+
+</resources>
